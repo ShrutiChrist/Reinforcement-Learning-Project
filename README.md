@@ -42,12 +42,8 @@ The interactive application, built using Streamlit, allows users to explore and 
 ---
 
 ## Installation and Setup
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install numpy
    pip install pandas
@@ -55,7 +51,7 @@ The interactive application, built using Streamlit, allows users to explore and 
    pip install streamlit
    ```
 
-3. Run the Streamlit app:
+2. Run the Streamlit app:
    ```bash
    streamlit run main.py
    ```
