@@ -41,6 +41,17 @@ The interactive application, built using Streamlit, allows users to explore and 
 
 ---
 
+## Interfaces
+### Visualization
+• A dual-axis plot showcases reward estimates and regret dynamics.
+![image](https://github.com/user-attachments/assets/3e13f802-329c-41e0-9a10-d457cace449b)
+![image](https://github.com/user-attachments/assets/2215aadb-16a4-453c-82ae-f2df660f54e0)
+![image](https://github.com/user-attachments/assets/f1bb0ddc-6827-43ae-9fa9-293133cbc18a)
+
+
+---
+
+
 ## Installation and Setup
 
 1. Install dependencies:
